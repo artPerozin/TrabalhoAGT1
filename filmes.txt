@@ -1,0 +1,25 @@
+Matrix,Ação|Ficção,4.7,1999,16,Keanu Reeves|Carrie-Anne Moss,Um hacker descobre a verdade.,Longa-metragem
+O Poderoso Chefão,Drama|Crime,4.9,1972,18,Marlon Brando|Al Pacino,A história da família mafiosa Corleone.,Longa-metragem
+Toy Story,Animação|Comédia,4.5,1995,0,Tom Hanks|Tim Allen,Brinquedos ganham vida quando os humanos não estão por perto.,Longa-metragem
+A Chegada,Ficção|Drama,4.6,2016,12,Amy Adams|Jeremy Renner,Uma linguista tenta se comunicar com alienígenas.,Longa-metragem
+Cidade de Deus,Crime|Drama,4.8,2002,18,Alexandre Rodrigues|Leandro Firmino,Violência e sobrevivência numa favela carioca.,Longa-metragem
+O Fabuloso Destino de Amélie Poulain,Romance|Comédia,4.3,2001,12,Audrey Tautou|Mathieu Kassovitz,Uma jovem transforma a vida das pessoas à sua volta.,Longa-metragem
+A Viagem de Chihiro,Animação|Fantasia,4.7,2001,10,Rumi Hiiragi|Miyu Irino,Garota entra em mundo mágico e tenta salvar os pais.,Longa-metragem
+Whiplash,Drama|Musical,4.7,2014,16,Miles Teller|J.K. Simmons,Jovem baterista é levado ao limite por seu professor.,Longa-metragem
+Corra!,Suspense|Terror,4.4,2017,14,Daniel Kaluuya|Allison Williams,Jovem negro visita a família da namorada e percebe algo errado.,Longa-metragem
+A Bruxa,Terror|Drama,4.1,2015,16,Anya Taylor-Joy|Ralph Ineson,Família enfrenta forças sinistras no século XVII.,Longa-metragem
+O Rei Leão,Animação|Aventura,4.5,1994,0,Matthew Broderick|James Earl Jones,Jovem leão precisa recuperar seu trono.,Longa-metragem
+Curtindo a Vida Adoidado,Comédia|Aventura,4.6,1986,12,Matthew Broderick|Alan Ruck,Estudante decide faltar à escola e viver um dia inesquecível.,Longa-metragem
+A Casa Monstro,Animação|Terror,4.0,2006,10,Mitchel Musso|Sam Lerner,Crianças investigam uma casa mal-assombrada.,Longa-metragem
+Shrek,Animação|Comédia,4.4,2001,0,Mike Myers|Eddie Murphy,Ogro embarca em missão para resgatar uma princesa.,Longa-metragem
+Antes do Amanhecer,Romance|Drama,4.5,1995,14,Ethan Hawke|Julie Delpy,Casal se conhece em uma viagem e passa uma noite juntos.,Longa-metragem
+The Office,Comédia|Série,4.8,2005,12,Steve Carell|John Krasinski,Série sobre o cotidiano hilário de um escritório.,Série
+Black Mirror,Ficção|Suspense,4.7,2011,16,Variado,Episódios independentes sobre tecnologia e sociedade.,Série
+Frozen,Animação|Musical,4.3,2013,0,Idina Menzel|Kristen Bell,Princesa enfrenta poderes mágicos e salva o reino.,Longa-metragem
+A Incrível Jornada,Drama|Aventura,4.2,1993,0,Don Ameche|Sally Field,Dois cães e um gato cruzam a floresta para reencontrar seus donos.,Longa-metragem
+O Menino e o Mundo,Animação|Fantasia,4.1,2013,0,Vários,Garoto embarca em jornada visual pelo Brasil.,Curta-metragem
+Ilha das Flores,Documentário|Curta,4.7,1989,0,Vários,Uma sátira sobre consumo, desigualdade e destino do lixo.,Curta-metragem
+A Voz Humana,Drama|Curta,4.0,2020,16,Tilda Swinton,Mulher lida com abandono em monólogo emocionante.,Curta-metragem
+Marcha dos Pinguins,Documentário|Aventura,4.3,2005,0,Morgan Freeman,Narração da jornada dos pinguins imperadores.,Longa-metragem
+Sonic 2,Aventura|Comédia,4.1,2022,10,Ben Schwartz|Idris Elba,Herói veloz enfrenta o vilão Robotnik.,Longa-metragem
+Barbie,Fantasia|Comédia,4.4,2023,12,Margot Robbie|Ryan Gosling,Barbie explora o mundo real para descobrir seu propósito.,Longa-metragem
