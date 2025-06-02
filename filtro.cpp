@@ -16,10 +16,6 @@ vector<Filme> filtrarFilmes(
 
 ){
     vector<Filme> filmesFiltrados;
-    // Fazer verificação com ifs e if (categoria.has_value()) [da biblioteca optional]
-    // Pegar inspiração no codigo do main ;)
-    // Caso passe por todos os filtros, dar pushback de f em filmesFiltrados
-    // sortar os 5 filmes com maior avaliação dentre os filmesFiltrados
 
     for (const Filme& f : filmes) {
         if (generosDesejados.has_value()) {
