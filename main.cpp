@@ -63,11 +63,11 @@ int main() {
     cout << "\nClassificacoes etarias possiveis:\n";
     cout << "----------------------------\n";
     cout << "  0  - Livre\n";
-    cout << " 10  - A partir de 10 anos\n";
-    cout << " 12  - A partir de 12 anos\n";
-    cout << " 14  - A partir de 14 anos\n";
-    cout << " 16  - A partir de 16 anos\n";
-    cout << " 18  - A partir de 18 anos\n";
+    cout << " 10  - 10 anos\n";
+    cout << " 12  - 12 anos\n";
+    cout << " 14  - 14 anos\n";
+    cout << " 16  - 16 anos\n";
+    cout << " 18  - 18 anos\n";
     cout << "----------------------------\n";
     cout << "Classificacao etaria maxima: ";
     
