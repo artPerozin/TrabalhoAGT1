@@ -23,3 +23,28 @@ A Voz Humana,Drama|Curta,4.0,2020,16,Tilda Swinton,Mulher lida com abandono em m
 Marcha dos Pinguins,Documentario|Aventura,4.3,2005,0,Morgan Freeman,Narracao da jornada dos pinguins imperadores.,Longa-metragem
 Sonic 2,Aventura|Comedia,4.1,2022,10,Ben Schwartz|Idris Elba,Heroi veloz enfrenta o vilao Robotnik.,Longa-metragem
 Barbie,Fantasia|Comedia,4.4,2023,12,Margot Robbie|Ryan Gosling,Barbie explora o mundo real para descobrir seu proposito.,Longa-metragem
+O Senhor dos Aneis: A Sociedade do Anel,Aventura|Fantasia,4.9,2001,12,Elijah Wood|Ian McKellen,Grupo parte em jornada para destruir anel do poder.,Longa-metragem
+Interestelar,Ficcao|Drama,4.8,2014,12,Matthew McConaughey|Anne Hathaway,Equipe viaja por buraco de minhoca em busca de novo lar para a humanidade.,Longa-metragem
+Clube da Luta,Drama|Suspense,4.7,1999,18,Brad Pitt|Edward Norton,Homen descobre alter ego radical e funda clube secreto.,Longa-metragem
+Parasita,Drama|Suspense,4.8,2019,16,Song Kang-ho|Choi Woo-shik,Familia pobre se infiltra na casa de ricos com consequencias inesperadas.,Longa-metragem
+O Grande Hotel Budapeste,Comedia|Crime,4.6,2014,14,Ralph Fiennes|Tony Revolori,Concierge e jovem empregado se envolvem em confusao durante guerra.,Longa-metragem
+Gravidade,Ficcao|Suspense,4.4,2013,12,Sandra Bullock|George Clooney,Astronautas lutam para sobreviver apos acidente no espaco.,Longa-metragem
+Pantera Negra,Acao|Aventura,4.5,2018,12,Chadwick Boseman|Michael B. Jordan,Rei de nação africana deve proteger seu povo e legado.,Longa-metragem
+A Lista de Schindler,Drama|Historico,4.9,1993,16,Liam Neeson|Ralph Fiennes,Homem salva centenas de judeus durante o Holocausto.,Longa-metragem
+Her,Romance|Ficcao,4.6,2013,14,Joaquin Phoenix|Scarlett Johansson,Homen se apaixona por sistema operacional com IA.,Longa-metragem
+Stranger Things,Ficcao|Terror,4.8,2016,14,Millie Bobby Brown|Finn Wolfhard,Criancas enfrentam forcas sobrenaturais em cidade dos anos 80.,Serie
+Narcos,Crime|Drama,4.7,2015,18,Wagner Moura|Pedro Pascal,Serie sobre a ascensao e queda de Pablo Escobar.,Serie
+Coco,Animacao|Musical,4.6,2017,0,Anthony Gonzalez|Gael Garcia Bernal,Garoto viaja ao mundo dos mortos para descobrir historia da familia.,Longa-metragem
+O Jogo da Imitação,Biografia|Drama,4.5,2014,12,Benedict Cumberbatch|Keira Knightley,Matematico decifra codigo nazista e muda os rumos da guerra.,Longa-metragem
+O Show de Truman,Drama|Ficcao,4.6,1998,12,Jim Carrey|Laura Linney,Homen descobre que toda sua vida é um programa de TV.,Longa-metragem
+O Labirinto do Fauno,Fantasia|Drama,4.7,2006,16,Ivana Baquero|Sergi López,Garota se refugia em mundo magico durante guerra civil.,Longa-metragem
+Homem-Aranha no Aranhaverso,Animacao|Acao,4.6,2018,10,Shameik Moore|Jake Johnson,Adolescente assume o manto de heroi em universo paralelo.,Longa-metragem
+Duna,Ficcao|Aventura,4.5,2021,14,Timothée Chalamet|Rebecca Ferguson,Herdeiro de nobre casa luta por sobrevivencia em planeta hostil.,Longa-metragem
+Inside Out (Divertida Mente),Animacao|Drama,4.5,2015,0,Amy Poehler|Phyllis Smith,Emocoes de garota tentam manter equilibrio durante mudanca.,Longa-metragem
+Drive,Crime|Suspense,4.4,2011,16,Ryan Gosling|Carey Mulligan,Motorista habilidoso se envolve em assalto que da errado.,Longa-metragem
+Os Incriveis,Animacao|Acao,4.5,2004,0,Craig T. Nelson|Holly Hunter,Familia de super-herois tenta viver vida normal.,Longa-metragem
+Donnie Darko,Suspense|Ficcao,4.3,2001,16,Jake Gyllenhaal|Jena Malone,Adolescente perturbado tem visões de coelho e eventos estranhos.,Longa-metragem
+O Jogo da Morte,Reality|Suspense,4.0,2010,16,Variado,Experimento mostra o poder da autoridade em game show ficticio.,Documentario
+O Castelo Animado,Animacao|Fantasia,4.6,2004,10,Chieko Baisho|Takuya Kimura,Jovem amaldiçoada busca ajuda de misterioso mago.,Longa-metragem
+BoJack Horseman,Animacao|Drama,4.7,2014,16,Will Arnett|Amy Sedaris,Ex-estrela decadente tenta lidar com depressao e fama.,Serie
+Moonlight,Drama|Romance,4.4,2016,16,Trevante Rhodes|Ashton Sanders,Jovem negro luta para entender sua identidade e sexualidade.,Longa-metragem
